@@ -28,10 +28,6 @@ Here are some ideas to get you started:
 
 - 🛠️ **[GenAPI](https://thegenapi.io)** — *(Automated API Generator)*
 
-## 🔥 Streak Stats
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=salamancacm&theme=dark" alt="salamancacm" /></p>
-
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
