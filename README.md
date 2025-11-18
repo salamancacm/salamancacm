@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=salamancacm&label=Carlos's%20Profile%20Views%20&color=dc143c&style=plastic" alt="salamancacm" /> </p>
 
+## 🧩 Creator of
+
+- 🛠️ **GenAPI** — *(Automated API Generator)*
+
 ## 🔥 Streak Stats
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=salamancacm&theme=dark" alt="salamancacm" /></p>
