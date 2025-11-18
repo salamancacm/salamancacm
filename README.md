@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## 🧩 Creator of
 
-- 🛠️ **GenAPI** — *(Automated API Generator)*
+- 🛠️ **[GenAPI](https://thegenapi.io)** — *(Automated API Generator)*
 
 ## 🔥 Streak Stats
 
