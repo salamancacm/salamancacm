@@ -12,7 +12,7 @@ Software engineer. I build things end to end — backend, frontend, mobile, what
 
 **Languages** — Java · Go · TypeScript · JavaScript · Python
 
-**Frameworks** — React · Angular · Spring Boot · Node.js · GraphQL · Flutter
+**Frameworks** — React · Angular · Spring Boot · Node.js · Express · GraphQL · Apollo Server · Flutter
 
 **Data & infra** — PostgreSQL · MySQL · SQLite · MongoDB · Firebase · AWS · GCP
 
