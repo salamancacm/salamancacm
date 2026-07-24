@@ -10,11 +10,11 @@ Software engineer. I build things end to end — backend, frontend, mobile, what
 
 ## Stack
 
-**Languages** — Go · TypeScript · JavaScript · Java · Python · PHP
+**Languages** — Java · Go · TypeScript · JavaScript · Python
 
-**Frameworks** — React · Spring Boot · Node.js · GraphQL · Flutter
+**Frameworks** — React · Angular · Spring Boot · Node.js · GraphQL · Flutter
 
-**Data & infra** — PostgreSQL · MySQL · SQLite · MongoDB · Firebase · GCP
+**Data & infra** — PostgreSQL · MySQL · SQLite · MongoDB · Firebase · AWS · GCP
 
 <details>
 <summary>GitHub stats</summary>
@@ -25,8 +25,12 @@ Software engineer. I build things end to end — backend, frontend, mobile, what
 </p>
 </details>
 
-## Elsewhere
-
-[LinkedIn](https://linkedin.com/in/salamancacm) · [Email](mailto:salamancacmcol@gmail.com) · [Ko-fi](https://ko-fi.com/salamancacm)
+## Support
 
 If something I've built has saved you time, a coffee is always appreciated.
+
+**[☕ ko-fi.com/salamancacm](https://ko-fi.com/salamancacm)**
+
+## Elsewhere
+
+[LinkedIn](https://linkedin.com/in/salamancacm)
