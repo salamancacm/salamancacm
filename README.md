@@ -4,6 +4,8 @@ Software engineer. I build things end to end — backend, frontend, mobile, what
 
 ## Currently building
 
+**[SaaSForge UI](https://saasforge-ui.github.io/saasforge-ui/)** - Production-ready React components for modern SaaS dashboards — and growing. Built with React, TypeScript and Tailwind CSS — copy, customize, and ship.
+
 **[vpsguard](https://github.com/salamancacm/vpsguard)** — a CLI that audits, hardens, and monitors the security of a Linux VPS. Started it after noticing something I couldn't explain on one of my own servers. It's grown into a small ecosystem: a [GitHub Action](https://github.com/marketplace/actions/vps-fleet-audit-vpsguard) for auditing a fleet from CI, and a [Homebrew tap](https://github.com/salamancacm/homebrew-tap).
 
 **[GenAPI](https://thegenapi.io)** — an automated API generator.
