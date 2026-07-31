@@ -8,6 +8,8 @@ Software engineer. I build things end to end — backend, frontend, mobile, what
 
 **[vpsguard](https://github.com/salamancacm/vpsguard)** — a CLI that audits, hardens, and monitors the security of a Linux VPS. Started it after noticing something I couldn't explain on one of my own servers. It's grown into a small ecosystem: a [GitHub Action](https://github.com/marketplace/actions/vps-fleet-audit-vpsguard) for auditing a fleet from CI, and a [Homebrew tap](https://github.com/salamancacm/homebrew-tap).
 
+**[BoreLoad](https://github.com/salamancacm/boredload)** - A tiny Canvas 2D minigame you show during loading states — instead of a boring spinner.
+
 **[GenAPI](https://thegenapi.io)** — an automated API generator.
 
 ## Stack
